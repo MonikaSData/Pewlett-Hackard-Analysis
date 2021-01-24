@@ -29,13 +29,13 @@ hire_date date
 Salaries
 -
 emp_no int pk FK >- Employees.emp_no
-salary
-from_date
-to_date
+salary int
+from_date date
+to_date date
 
 Titles
 -
 emp_no int pk FK >- Employees.emp_no
-title
-from_date
-to_date
+title varchar
+from_date date
+to_date date
