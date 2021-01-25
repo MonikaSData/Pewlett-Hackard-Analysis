@@ -16,7 +16,7 @@ Analysis using Postgre SQL Database and SQL Queries
 
 
 ## Resources
-- Data Source (input and output csv files): [data](https://github.com/MonikaSData/Pewlett-Hackard-Analysis/tree/main/Data)
+- Data Sources (input and output csv files): [data](https://github.com/MonikaSData/Pewlett-Hackard-Analysis/tree/main/Data)
 - Source Code: [Employee_Database_challenge](Queries/Employee_Database_challenge.sql)
 - Software: PostgreSQL 12.5; PgAdmin 4; VS Code 2019
 
