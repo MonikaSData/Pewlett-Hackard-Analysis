@@ -3,6 +3,7 @@ Analysis using Postgre SQL Database and SQL Queries
 
 ## Overview of Project
 **Using Postgre SQL query language to analyze company employee related data to future-proof the company by determining how many people will be retiring and, of those employees, who is eligible for a retirement package. This will help the company understand the scope and help them to plan for it.** 
+
 *Some managers plan to introduce a mentoring program where experienced and successful employees would be stepping back into a part-time role instead of retiring completely. Their new role in the company would be as a mentor to the newly hired folks. (This requires addittional reports to be created)*
 
 
@@ -103,8 +104,8 @@ Analysis using Postgre SQL Database and SQL Queries
 
 
  **Recommendations: create two additional queries or tables to get more insight**
- 1. Create the list of employees that are eligible to retire by department (for all departments)
- 2. Review fare rates in rural and suburban cities
+ 1. Create list of employees that are eligible to retire by department (for all departments)
+ 2. Create list of employees that are eligible to participate in the mentorship program by department (for all departments)
  
 
   
