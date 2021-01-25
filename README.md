@@ -100,7 +100,7 @@ Analysis using Postgre SQL Database and SQL Queries
     - 7 different job roles (titles) will be impacted
  2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
     - Yes, there are plenty of current employees that would qualify to retire and mentor new employees. 
-    - However; the number of current employees that would qualify under the current criteria for the mentorship program is far too few (1549). The program criteria should either be expanded or the company has to ensure that will have robust hiring strategy to fill in the gaps.
+    - However; the number of current employees that would qualify under the current criteria for the mentorship program is far too few (1549). The program criteria should either be expanded or the company has to ensure that it will have robust hiring strategy to fill in the gaps.
 
 
  **Recommendations: create two additional queries or tables to get more insight**
