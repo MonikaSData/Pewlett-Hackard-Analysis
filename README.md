@@ -44,7 +44,7 @@ Analysis using Postgre SQL Database and SQL Queries
         WHERE (e.birth_date BETWEEN '1952-01-01' AND '1955-12-31')
         ORDER BY e.emp_no, t.to_date DESC;
 
-![Total_Fare_by_City_Type](Analysis/PyBer_fare_summary.png)
+![Employees_to_Retire_by_Unique_Title](Queries/Employees_to_Retire_Unique.png)
 
     *The Number of Retiring Employees by Unique Title*
 
@@ -55,14 +55,14 @@ Analysis using Postgre SQL Database and SQL Queries
         GROUP BY title
         ORDER BY COUNT(emp_no) DESC;
 
-![Total_Fare_by_City_Type](Analysis/PyBer_fare_summary.png)
+![Unique_roles_Count](Queries/Unique_roles_Count.png)
 
 
 - **The Employees Eligible for the Mentorship Program**
-   - The total number of rides for each city type 
-   - The total number of drivers for each city type
+   - Total of 1549 employees are qualified under the current criteria to participate in the proposed mentorship program
 
-![Total_Fare_by_City_Type](Analysis/PyBer_fare_summary.png)
+
+![List_of_Employees_Eligible_for_Mentorship_Program](Queries/List_of_Employees_Eligible_for_Mentorship_Program.png)
 
 - **Code Example:**
      
