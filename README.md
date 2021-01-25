@@ -22,7 +22,7 @@ Analysis using Postgre SQL Database and SQL Queries
 
 ## Results
 - **The Number of Retiring Employees by Title**
-   - Total of 72,458 employees are currently employed by PH (fictional company for the use case) and qualify to retire
+   - Total of 72,458 employees are currently employed by PH (fictional company for the use case) that qualify to retire
    - 7 different job roles (titles) will be impacted
   
 
