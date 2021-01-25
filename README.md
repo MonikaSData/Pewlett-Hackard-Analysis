@@ -21,11 +21,9 @@ Analysis using Postgre SQL Database and SQL Queries
 
 ## Results
 - **The Number of Retiring Employees by Title**
-   - The total number of rides for each city type 
-   - The total number of drivers for each city type
-   - The sum of the fares for each city type
-   - The average fare per ride for each city type
-   - The average fare per driver for each city type
+   - Total of 72,458 are current  and qualified to retired
+   - 7 different job roles (titles) will be impacted
+  
 
 
 - **Code Example:**
@@ -62,7 +60,7 @@ Analysis using Postgre SQL Database and SQL Queries
    - Total of 1549 employees are qualified under the current criteria to participate in the proposed mentorship program
 
 
-![List_of_Employees_Eligible_for_Mentorship_Program](Queries/List_of_Employees_Eligible_for_Mentorship_Program.png)
+
 
 - **Code Example:**
      
@@ -85,10 +83,10 @@ Analysis using Postgre SQL Database and SQL Queries
             AND (t.to_date = '9999-01-01')
         ORDER BY e.emp_no;
 
-- **Summary DataFrame by City Type**
 
 
-![Summary_DataFrame_by_City_Type](Analysis/Summary_DataFrame_by_City_Type.jpg)
+![List_of_Employees_Eligible_for_Mentorship_Program](Queries/List_of_Employees_Eligible_for_Mentorship_Program.png)
+
 
 
 
