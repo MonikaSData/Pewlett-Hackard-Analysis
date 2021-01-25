@@ -92,13 +92,14 @@ Analysis using Postgre SQL Database and SQL Queries
 
 
 ## Summary
-*Business recommendations to address any disparities among the city types:*
+
 
  1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
     - Total of 90398 of roles will be possibly need to be replaced (this is the number of employees that qualify to retire based on the SQL queries requested); out of which 72,458 are current employees
     - 7 different job roles (titles) will be impacted
  2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-    Yes, there are plenty of current employees that would qualify to retire and mentor new employees. However; the number of current employees that would qualify under the current criteria for the mentorship program is far too few (1549). The program criteria should either be expanded or the company has to ensure that will have robust hiring strategy to fill in the gaps.
+    - Yes, there are plenty of current employees that would qualify to retire and mentor new employees. 
+    - However; the number of current employees that would qualify under the current criteria for the mentorship program is far too few (1549). The program criteria should either be expanded or the company has to ensure that will have robust hiring strategy to fill in the gaps.
 
 
  **Recommendations: create two additional queries or tables to get more insight**
